@@ -1,0 +1,877 @@
+{
+  "title": "The history of the match",
+  "tagline": "From sparks struck off pyrite 400,000 years ago to a two-rupee box from Sivakasi: how people learnt to carry fire in a pocket, and what it cost the people who made it.",
+  "intro": "For most of history, starting a fire was slow work with a drill or a flint. Then chemists found phosphorus, and in 1827 a druggist in the north of England sold the first sticks that lit by friction. The cheap matches that followed poisoned the workers who made them, until a different form of the same element, a strike by London factory girls and a string of laws put that right. In India the story moved to Sivakasi, where the price of a matchbox was held down by hand labour, and where the courts had to step in for the children.",
+  "eras": [
+    {
+      "id": "ember",
+      "name": "Keeping the ember",
+      "from": -400000,
+      "to": 1669,
+      "color": "#c49bff",
+      "summary": "Fire is made with sparks or rubbing and carried as an ember. Sulphur sticks can pick a flame up, but nothing in a pocket can start one."
+    },
+    {
+      "id": "chem",
+      "name": "Chemists look for instant fire",
+      "from": 1669,
+      "to": 1826,
+      "color": "#ffb547",
+      "summary": "Phosphorus is discovered, and inventors try acid bottles and gas lamps to make a flame on demand."
+    },
+    {
+      "id": "poison",
+      "name": "Lucifers and phossy jaw",
+      "from": 1827,
+      "to": 1913,
+      "color": "#ff7a59",
+      "summary": "The friction match arrives and white phosphorus makes it cheap. Workers pay with their health until strikes, treaties and laws end it."
+    },
+    {
+      "id": "safe",
+      "name": "The safety match and its rivals",
+      "from": 1844,
+      "to": 1940,
+      "color": "#5ce1a9",
+      "summary": "The phosphorus moves to the box, Sweden supplies the world, and matchbooks and lighters appear."
+    },
+    {
+      "id": "india",
+      "name": "Sivakasi and the Indian matchbox",
+      "from": 1910,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "India bans the poisonous match early, builds a huge hand-made industry in Tamil Nadu, and argues in court and in Parliament over the children who work in it."
+    }
+  ],
+  "events": [
+    {
+      "year": -400000,
+      "date": "c. 400,000 years ago",
+      "era": "ember",
+      "art": "flame",
+      "title": "The oldest signs of fire-making",
+      "who": "Early humans, probably Neanderthals",
+      "where": "Barnham, Suffolk, England",
+      "country": "United Kingdom",
+      "text": "At Barnham, baked earth lies beside flint and pieces of pyrite, a mineral that throws sparks when struck. A study reported in 2025 reads this as people making fire on purpose, not just keeping a wildfire going. Older hearths exist, but they do not show how the fire was started.",
+      "why": "For most of human history the hard part was not keeping a fire but starting one.",
+      "sources": [
+        18
+      ],
+      "key": true,
+      "box": "fire"
+    },
+    {
+      "year": 577,
+      "date": "577 CE, as later sources tell it",
+      "era": "ember",
+      "art": "candles",
+      "title": "Sulphur sticks in China",
+      "who": "Court ladies of Northern Qi, by tradition",
+      "where": "China",
+      "country": "China",
+      "text": "Chinese texts describe small pine sticks tipped with sulphur. Touched to a glowing ember, they burst into flame at once. A book of about 950 by Tao Gu describes them, and a later writer dates their first use to the year 577. By 1290 they were sold in the markets of Hangzhou.",
+      "why": "They could not make fire, only pick it up from an ember, but they were the first fire on a stick.",
+      "sources": [
+        0
+      ],
+      "box": "fire"
+    },
+    {
+      "year": 1669,
+      "date": "c. 1669",
+      "era": "chem",
+      "art": "flask",
+      "title": "Phosphorus, found by accident",
+      "who": "Hennig Brand",
+      "where": "Hamburg, Germany",
+      "country": "Germany",
+      "text": "Brand was an alchemist looking for the philosopher's stone. He boiled down urine and heated the residue until a white, waxy substance came over that glowed in the dark and caught fire by itself. He kept the method secret, then sold it.",
+      "why": "Phosphorus was the first element discovered by a known person, and the one that would make matches possible.",
+      "sources": [
+        13
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1805,
+      "date": "1805",
+      "era": "chem",
+      "art": "flask",
+      "title": "A match dipped in acid",
+      "who": "Jean Chancel",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Chancel, an assistant to the chemist Thénard, made a stick with a chemical head that burst into flame when dipped into a small bottle of sulphuric acid. It worked, but it was costly and dangerous, and few people used it.",
+      "why": "It was the first match that made its own fire by chemistry instead of borrowing it from an ember.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1823,
+      "date": "1823",
+      "era": "chem",
+      "art": "flame",
+      "title": "Döbereiner's lamp",
+      "who": "Johann Wolfgang Döbereiner",
+      "where": "Jena, Germany",
+      "country": "Germany",
+      "text": "Döbereiner's table lighter made hydrogen gas and passed it over a piece of platinum, which made the gas catch fire with no spark at all. It was an early lighter and an early use of a catalyst.",
+      "why": "Lighters are older than the friction match.",
+      "sources": [
+        17
+      ],
+      "box": "fire"
+    },
+    {
+      "year": 1827,
+      "date": "7 April 1827 (first recorded sale)",
+      "era": "poison",
+      "art": "inkpot",
+      "title": "John Walker's friction lights",
+      "who": "John Walker",
+      "where": "Stockton-on-Tees, England",
+      "country": "United Kingdom",
+      "text": "Walker, a chemist and druggist, found that a stick coated with a chemical paste lit when it scraped across his hearth. He sold the sticks as 'friction lights', in a tin with a piece of sandpaper to pull them through. He refused to patent them, saying the public should have the benefit.",
+      "why": "This was the first match lit by friction alone: one stroke replaced the tinderbox.",
+      "sources": [
+        1,
+        0
+      ],
+      "key": true,
+      "box": "strike"
+    },
+    {
+      "year": 1829,
+      "date": "1828–1829",
+      "era": "poison",
+      "art": "person",
+      "title": "Lucifers",
+      "who": "Samuel Jones; Michael Faraday",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "A London chemist, Samuel Jones, sold copies of the new matches as 'lucifers' and 'Prometheans'. Michael Faraday showed Walker's invention in his London lectures in 1829, and the news spread quickly. Walker himself stopped making them by 1830.",
+      "why": "The name lucifer, 'light-bringer', stuck to matches for a century.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1831,
+      "date": "1830 or January 1831",
+      "era": "poison",
+      "art": "flame",
+      "title": "White phosphorus goes into the head",
+      "who": "Charles Sauria",
+      "where": "Dole, France",
+      "country": "France",
+      "text": "Sauria, a chemistry student, put white phosphorus into the match head. The new matches lit at the lightest scrape on any surface and did not need the hard pull of Walker's. He did not patent the idea, and it was soon made everywhere.",
+      "why": "It made matches easy and cheap, and set up sixty years of poisoning in the factories.",
+      "sources": [
+        0
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1839,
+      "date": "1839; 22 cases reported in 1844",
+      "era": "poison",
+      "art": "skeleton",
+      "title": "The first case of phossy jaw",
+      "who": "Friedrich Wilhelm Lorinser",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Lorinser, a doctor, saw a match worker whose jawbone was dying. By 1844 he had reported 22 such cases. Breathing white phosphorus fumes caused toothache and abscesses, then the death of the bone. Surgeons could only cut the dead bone away.",
+      "why": "Doctors knew what the disease was and what caused it more than thirty years before the first ban.",
+      "sources": [
+        5
+      ],
+      "box": "cost"
+    },
+    {
+      "year": 1844,
+      "date": "1844",
+      "era": "safe",
+      "art": "boxcamera",
+      "title": "The key moves to the box",
+      "who": "Gustaf Erik Pasch",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "Pasch, a professor of chemistry, patented a match with no phosphorus in its head. The phosphorus went onto a separate striking surface instead. His matches were made in Stockholm, but the surface wore out quickly and red phosphorus was too dear, so production stopped.",
+      "why": "This is the idea behind every safety match: keep the lock and the key apart.",
+      "sources": [
+        2,
+        0
+      ],
+      "key": true,
+      "box": "anatomy"
+    },
+    {
+      "year": 1847,
+      "date": "9 December 1847",
+      "era": "safe",
+      "art": "flask",
+      "title": "Red phosphorus",
+      "who": "Anton von Schrötter",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Schrötter showed the Vienna Academy of Sciences that white phosphorus, heated without air, turns into a dark red powder. It is the same element, but it does not glow, does not catch fire below about 240 °C and is far less harmful. Arthur Albright in England was making it in quantity by 1851.",
+      "why": "Red phosphorus gave matchmakers a way to keep the chemistry and lose the poison.",
+      "sources": [
+        3,
+        0
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1855,
+      "date": "c. 1847–1855",
+      "era": "safe",
+      "art": "building",
+      "title": "Jönköping makes the safety match work",
+      "who": "Johan Edvard and Carl Frans Lundström",
+      "where": "Jönköping, Sweden",
+      "country": "Sweden",
+      "text": "The Lundström brothers started a match factory at Jönköping in the 1840s and improved Pasch's design with red phosphorus on the box. Their safety match won an award at the Paris world exhibition of 1855. By 1858 the works made about 12 million boxes a year.",
+      "why": "Sweden became the world's matchmaker, and 'safety match' became an everyday phrase.",
+      "sources": [
+        2,
+        0
+      ],
+      "key": true,
+      "box": "anatomy"
+    },
+    {
+      "year": 1872,
+      "date": "1872",
+      "era": "poison",
+      "art": "scroll",
+      "title": "Finland bans white phosphorus matches",
+      "who": "Grand Duchy of Finland",
+      "where": "Finland",
+      "country": "Finland",
+      "text": "Finland was the first country to ban matches made with white phosphorus outright. Denmark followed in 1874, France in 1897, Switzerland in 1898 and the Netherlands in 1901.",
+      "why": "It proved a country could do without the poisonous match, long before most would.",
+      "sources": [
+        5,
+        0
+      ],
+      "box": "cost"
+    },
+    {
+      "year": 1888,
+      "date": "July 1888",
+      "era": "poison",
+      "art": "person",
+      "title": "The matchgirls' strike",
+      "who": "About 1,400 women and girls; Annie Besant",
+      "where": "Bow, London, England",
+      "country": "United Kingdom",
+      "text": "On 23 June Annie Besant published an article on conditions at the Bryant & May match factory: fourteen-hour days, low pay, fines and phosphorus. When a worker was dismissed in early July, about 1,400 women and girls walked out. On 16 July terms were agreed: the fines were abolished and meals moved to a room away from the phosphorus. The workers then formed a union.",
+      "why": "Unskilled women workers won a strike against a famous company, and the public learnt what a cheap match cost.",
+      "sources": [
+        6
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1892,
+      "date": "September 1892",
+      "era": "safe",
+      "art": "scroll",
+      "title": "The matchbook",
+      "who": "Joshua Pusey",
+      "where": "Philadelphia, USA",
+      "country": "United States",
+      "text": "Pusey, a patent lawyer, patented paper matches fixed inside a folded card cover. He sold the patent in 1896 to the Diamond Match company. Printed with advertisements, matchbooks were soon given away by the million. Collecting them, and matchbox labels, is called phillumeny.",
+      "why": "The match became a pocket-sized advertisement.",
+      "sources": [
+        15
+      ],
+      "box": "fire"
+    },
+    {
+      "year": 1898,
+      "date": "1898",
+      "era": "safe",
+      "art": "flask",
+      "title": "A safe strike-anywhere match",
+      "who": "Henri Sévène and Émile David Cahen",
+      "where": "France",
+      "country": "France",
+      "text": "The two chemists showed that a compound of phosphorus and sulphur, phosphorus sesquisulphide, could replace white phosphorus in matches that strike on any surface. It was not poisonous in the same way and did not make the heads dangerous to handle.",
+      "why": "With this, no kind of match needed white phosphorus any more.",
+      "sources": [
+        4,
+        0
+      ],
+      "box": "cost"
+    },
+    {
+      "year": 1903,
+      "date": "1903",
+      "era": "safe",
+      "art": "sparkplug",
+      "title": "Ferrocerium, the lighter's 'flint'",
+      "who": "Carl Auer von Welsbach",
+      "where": "Austria",
+      "country": "Austria",
+      "text": "Auer von Welsbach made an alloy of cerium-rich rare-earth metal and iron. Scrape it and it throws a shower of sparks, because its shavings catch fire at only 150 to 180 °C and burn at about 3,000 °C.",
+      "why": "It made the pocket lighter practical, and became the match's great rival.",
+      "sources": [
+        16,
+        17
+      ],
+      "box": "fire"
+    },
+    {
+      "year": 1906,
+      "date": "26 September 1906",
+      "era": "poison",
+      "art": "scroll",
+      "title": "The Berne Convention",
+      "who": "European governments",
+      "where": "Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "Governments meeting at Bern signed a convention forbidding the use of white (yellow) phosphorus in making matches, and the import and sale of such matches. It came into force on 1 January 1912. Britain's own Act of 1908 took effect on 1 January 1910.",
+      "why": "It was one of the first international treaties made to protect workers' health.",
+      "sources": [
+        7,
+        5
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1911,
+      "date": "1911–1912",
+      "era": "poison",
+      "art": "scroll",
+      "title": "America gives up the patent",
+      "who": "Diamond Match Company; President William Howard Taft",
+      "where": "United States",
+      "country": "United States",
+      "text": "The Diamond Match company held the American patent on the sesquisulphide match. At President Taft's appeal it gave the patent up for anyone to use. On 9 April 1912 Taft signed the White Phosphorus Match Act, which taxed the poisonous match out of existence.",
+      "why": "A company gave away a patent so that a whole industry could stop poisoning its workers.",
+      "sources": [
+        21,
+        5,
+        22
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "7 March 1913; in force 1 July 1913",
+      "era": "india",
+      "art": "scroll",
+      "title": "India bans white phosphorus matches",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "The White Phosphorus Matches Prohibition Act, 1913, modelled on Britain's Act of 1908, forbade making or importing matches with white phosphorus from 1 July 1913, and selling them from 1 July 1914. (Some histories give 1919 for India's ban; the Act itself is dated 1913.)",
+      "why": "The ban arrived before India had a large match industry, so its factories grew up with the safer chemistry.",
+      "sources": [
+        8,
+        9
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 1917,
+      "date": "1917–1932",
+      "era": "safe",
+      "art": "building",
+      "title": "The Match King",
+      "who": "Ivar Kreuger",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "Kreuger founded Swedish Match in 1917 and built it into a group that made between two-thirds and three-quarters of the world's matches. He lent money to governments in return for match monopolies. He died in Paris on 12 March 1932, and his empire collapsed within weeks in the 'Kreuger crash'.",
+      "why": "For a while one company lit most of the world's fires.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1922–1923",
+      "era": "india",
+      "art": "building",
+      "title": "Sivakasi learns the trade",
+      "who": "P. Ayya Nadar and A. Shanmuga Nadar",
+      "where": "Sivakasi, Tamil Nadu",
+      "country": "India",
+      "text": "Two young cousins from Sivakasi went to Calcutta in 1922 to learn match-making, where families from Japan had started the trade about 1910. Back home they opened Sivakasi's first matchworks in 1923. They began with imported machines and soon turned to making matches by hand, which suited a dry town with many people needing work.",
+      "why": "A small dry town in Tamil Nadu became the centre of India's match and fireworks industries.",
+      "sources": [
+        12,
+        11
+      ],
+      "key": true,
+      "box": "factory"
+    },
+    {
+      "year": 1924,
+      "date": "1923–1924",
+      "era": "india",
+      "art": "gear",
+      "title": "WIMCO builds mechanised factories",
+      "who": "Western India Match Company (Swedish Match)",
+      "where": "near Bombay, India",
+      "country": "India",
+      "text": "After India put a high duty on imported matches in 1922, Swedish Match set up the Western India Match Company to make them inside the country. It was incorporated in 1923 and working by 1924. For decades it was India's only fully mechanised matchmaker.",
+      "why": "From then on India's matches came from two worlds: one large machine-run company and thousands of hand workshops.",
+      "sources": [
+        12,
+        11
+      ],
+      "box": "factory"
+    },
+    {
+      "year": 1932,
+      "date": "1932",
+      "era": "india",
+      "art": "flame",
+      "title": "The modern safety match in South India",
+      "who": "Match makers of Sivakasi and Kovilpatti",
+      "where": "Tamil Nadu",
+      "country": "India",
+      "text": "According to an FAO study, the first sulphur matches were made in South India in 1923 and the first safety matches of the modern kind in 1932. Splints were set by hand into frames of 50 slats with 50 grooves each, dipped and dried in the open air.",
+      "why": "The hand frame of 2,500 splints became the working unit of the industry.",
+      "sources": [
+        11
+      ],
+      "box": "factory"
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "era": "safe",
+      "art": "flame",
+      "title": "The butane lighter",
+      "who": "Henri Pingeot",
+      "where": "France",
+      "country": "France",
+      "text": "Pingeot patented a lighter that burned butane, a gas kept as a liquid under gentle pressure. Butane gave a clean, adjustable flame, and from the 1950s it replaced petrol-like lighter fuel. Later lighters swapped the flint wheel for a piezoelectric crystal that sparks when struck.",
+      "why": "The lighter became cheap enough to compete with a box of matches.",
+      "sources": [
+        17
+      ],
+      "box": "fire"
+    },
+    {
+      "year": 1985,
+      "date": "mid-1980s",
+      "era": "india",
+      "art": "scales",
+      "title": "Who makes India's matches",
+      "who": "FAO case study by J.C. Tandon",
+      "where": "India",
+      "country": "India",
+      "text": "A study for the FAO found that one mechanised company, with about 6,000 workers, made about 18% of India's matches. Small handmade factories made about 67% with about 195,000 workers, and cottage units 15% with about 50,000. It recorded very low wages and the employment of many children.",
+      "why": "The numbers show what the low price of a matchbox rested on.",
+      "sources": [
+        11
+      ],
+      "box": "factory"
+    },
+    {
+      "year": 1990,
+      "date": "31 October 1990",
+      "era": "india",
+      "art": "scales",
+      "title": "The Supreme Court looks at Sivakasi",
+      "who": "Supreme Court of India; M.C. Mehta",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "In a case brought by the lawyer M.C. Mehta, the Court noted that at the end of 1985 Sivakasi had 221 registered match factories employing 27,338 workers, of whom 2,941 were children. It called the making of matches and fireworks hazardous and gave directions to improve the children's conditions. It took the case up again after an accident at a Sivakasi fireworks factory in which 39 people died.",
+      "why": "The country's highest court put the working children of the match belt on the record.",
+      "sources": [
+        10
+      ],
+      "box": "cost"
+    },
+    {
+      "year": 1996,
+      "date": "10 December 1996",
+      "era": "india",
+      "art": "scales",
+      "title": "₹20,000 for every child",
+      "who": "Supreme Court of India (Justices Kuldip Singh, B.L. Hansaria and S.B. Majmudar)",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "In M.C. Mehta v. State of Tamil Nadu the Court ordered that an employer must pay ₹20,000 for each child employed against the Child Labour (Prohibition and Regulation) Act, 1986. The money goes into a Child Labour Rehabilitation-cum-Welfare Fund for that child, who must be withdrawn from hazardous work and schooled. The order applied across India.",
+      "why": "It turned a constitutional promise, no child under 14 in a factory, into a duty with a price.",
+      "sources": [
+        10
+      ],
+      "key": true,
+      "box": "cost"
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "india",
+      "art": "scroll",
+      "title": "A standard for the Indian matchbox",
+      "who": "Bureau of Indian Standards",
+      "where": "India",
+      "country": "India",
+      "text": "IS 2653:2004 is the Indian standard for safety matches in boxes, hand-made or machine-made. Its tests include striking performance, a check that heads do not light when merely heated to 170 °C, ignition under impact and resistance to damp.",
+      "why": "A matchbox is a tested safety product, not just a cheap one.",
+      "sources": [
+        19
+      ],
+      "box": "strike"
+    },
+    {
+      "year": 2021,
+      "date": "1 December 2021",
+      "era": "india",
+      "art": "share",
+      "title": "Two rupees a box",
+      "who": "Match manufacturers' associations of Tamil Nadu",
+      "where": "Sivakasi, Tamil Nadu",
+      "country": "India",
+      "text": "The price of a matchbox had been one rupee since 2007, when it rose from 50 paise. Makers' associations raised it to two rupees from 1 December 2021, citing the cost of raw materials and transport, and put more sticks in the box.",
+      "why": "After fourteen years at one rupee, even the price of a matchbox had to move.",
+      "sources": [
+        20
+      ],
+      "box": "factory"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest known evidence of people making fire",
+      "value": "c. 400,000 years ago",
+      "who": "Barnham, England (reported 2025)"
+    },
+    {
+      "label": "First chemical match",
+      "value": "1805",
+      "who": "Jean Chancel, France"
+    },
+    {
+      "label": "First friction match sold",
+      "value": "7 April 1827",
+      "who": "John Walker, Stockton-on-Tees, England"
+    },
+    {
+      "label": "First safety match patent",
+      "value": "1844",
+      "who": "Gustaf Erik Pasch, Sweden"
+    },
+    {
+      "label": "First country to ban white phosphorus matches",
+      "value": "1872",
+      "who": "Finland"
+    },
+    {
+      "label": "India's ban on white phosphorus matches",
+      "value": "1913",
+      "who": "White Phosphorus Matches Prohibition Act"
+    },
+    {
+      "label": "First matchworks in Sivakasi",
+      "value": "1923",
+      "who": "P. Ayya Nadar and A. Shanmuga Nadar"
+    },
+    {
+      "label": "Supreme Court's child labour ruling",
+      "value": "10 December 1996",
+      "who": "M.C. Mehta v. State of Tamil Nadu"
+    }
+  ],
+  "people": [
+    {
+      "name": "Hennig Brand",
+      "life": "c. 1630 – c. 1692 or 1710",
+      "role": "Alchemist",
+      "from": "Germany",
+      "note": "Found phosphorus about 1669 while searching for the philosopher's stone."
+    },
+    {
+      "name": "John Walker",
+      "life": "1781 – 1859",
+      "role": "Chemist and druggist",
+      "from": "England",
+      "note": "Sold the first friction matches in 1827 and refused to patent them."
+    },
+    {
+      "name": "Charles Sauria",
+      "life": "19th century",
+      "role": "Chemistry student",
+      "from": "France",
+      "note": "Put white phosphorus in the match head in 1830 or 1831."
+    },
+    {
+      "name": "Friedrich Wilhelm Lorinser",
+      "life": "19th century",
+      "role": "Physician",
+      "from": "Austria",
+      "note": "Diagnosed the first case of phossy jaw in 1839 and reported 22 by 1844."
+    },
+    {
+      "name": "Gustaf Erik Pasch",
+      "life": "1788 – 1862",
+      "role": "Professor of chemistry",
+      "from": "Sweden",
+      "note": "Patented the safety match in 1844: phosphorus on the striking surface, not the head."
+    },
+    {
+      "name": "Anton von Schrötter",
+      "life": "19th century",
+      "role": "Chemist",
+      "from": "Austria",
+      "note": "Presented red phosphorus to the Vienna Academy in 1847."
+    },
+    {
+      "name": "Johan Edvard Lundström",
+      "life": "19th century",
+      "role": "Industrialist",
+      "from": "Sweden",
+      "note": "With his brother Carl Frans, made the safety match a commercial success at Jönköping."
+    },
+    {
+      "name": "Annie Besant",
+      "life": "1847 – 1933",
+      "role": "Journalist and campaigner",
+      "from": "England, later India",
+      "note": "Her 1888 article on the Bryant & May factory helped set off the matchgirls' strike. She later settled in India."
+    },
+    {
+      "name": "The matchgirls of Bow",
+      "life": "1888",
+      "role": "Factory workers",
+      "from": "England",
+      "note": "About 1,400 women and girls who struck, won, and formed a union."
+    },
+    {
+      "name": "Carl Auer von Welsbach",
+      "life": "1858 – 1929",
+      "role": "Chemist and inventor",
+      "from": "Austria",
+      "note": "Invented ferrocerium, the sparking 'flint' of lighters, in 1903."
+    },
+    {
+      "name": "Ivar Kreuger",
+      "life": "1880 – 1932",
+      "role": "Industrialist",
+      "from": "Sweden",
+      "note": "The 'Match King', whose group made most of the world's matches before it collapsed in 1932."
+    },
+    {
+      "name": "P. Ayya Nadar and A. Shanmuga Nadar",
+      "life": "20th century",
+      "role": "Founders of Sivakasi's match industry",
+      "from": "India",
+      "note": "Cousins who learnt match-making in Calcutta in 1922 and opened Sivakasi's first matchworks in 1923."
+    },
+    {
+      "name": "M.C. Mehta",
+      "life": "born 1946",
+      "role": "Public-interest lawyer",
+      "from": "India",
+      "note": "Brought the Supreme Court case on child labour in Sivakasi's match factories."
+    }
+  ],
+  "series": [
+    {
+      "id": "bans",
+      "title": "Countries that had banned white phosphorus matches",
+      "unit": "countries",
+      "log": false,
+      "after": "poison",
+      "caption": "A running count of the countries named in our sources, by the year each ban or prohibitive tax was passed. Doctors described phossy jaw in 1839; the first ban came 33 years later.",
+      "points": [
+        {
+          "year": 1872,
+          "value": 1,
+          "label": "Finland"
+        },
+        {
+          "year": 1874,
+          "value": 2,
+          "label": "Denmark"
+        },
+        {
+          "year": 1897,
+          "value": 3,
+          "label": "France"
+        },
+        {
+          "year": 1898,
+          "value": 4,
+          "label": "Switzerland"
+        },
+        {
+          "year": 1901,
+          "value": 5,
+          "label": "Netherlands"
+        },
+        {
+          "year": 1908,
+          "value": 6,
+          "label": "United Kingdom (Act of 1908, in force 1910)"
+        },
+        {
+          "year": 1912,
+          "value": 7,
+          "label": "United States (tax law signed 9 April 1912)"
+        },
+        {
+          "year": 1913,
+          "value": 8,
+          "label": "India (Act 5 of 1913)"
+        },
+        {
+          "year": 1914,
+          "value": 9,
+          "label": "Canada"
+        },
+        {
+          "year": 1919,
+          "value": 10,
+          "label": "Japan"
+        },
+        {
+          "year": 1925,
+          "value": 11,
+          "label": "China"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "John Walker never patented the friction match. He said the public should have the benefit of it.",
+    "Red and white phosphorus are the same element. One lights at about 30 °C and is a poison; the other needs about 240 °C and sits safely on every matchbox.",
+    "One stroke of a match does about 0.03 joule of work. The stick that then burns gives out about 1,100 joules.",
+    "A hand-dipping frame in Sivakasi holds 2,500 splints: 50 slats with 50 grooves each, enough for 50 boxes.",
+    "A matchbox cost one rupee in India for 14 years, from 2007 to December 2021."
+  ],
+  "sources": [
+    {
+      "title": "Match",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Match"
+    },
+    {
+      "title": "John Walker (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Walker_(inventor)"
+    },
+    {
+      "title": "Gustaf Erik Pasch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustaf_Erik_Pasch"
+    },
+    {
+      "title": "Allotropes of phosphorus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allotropes_of_phosphorus"
+    },
+    {
+      "title": "Phosphorus sesquisulfide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phosphorus_sesquisulfide"
+    },
+    {
+      "title": "Phossy jaw",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phossy_jaw"
+    },
+    {
+      "title": "Matchgirls' strike",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matchgirls%27_strike"
+    },
+    {
+      "title": "Berne Convention (1906)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Berne_Convention_(1906)"
+    },
+    {
+      "title": "The White Phosphorus Matches Prohibition Act, 1913 (Act 5 of 1913)",
+      "publisher": "India Code, Government of India",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2353"
+    },
+    {
+      "title": "The White Phosphorus Matches Prohibition Act, 1913: text of the Act",
+      "publisher": "Lawyers & Jurists (reproduction of the Act)",
+      "url": "https://www.lawyersnjurists.com/?p=15056"
+    },
+    {
+      "title": "M.C. Mehta v. State of Tamil Nadu and others, judgment of 10 December 1996",
+      "publisher": "Supreme Court of India (copy hosted by Global Health and Human Rights Database)",
+      "url": "https://www.globalhealthrights.org/wp-content/uploads/2012/11/SC-1996-M.C.-Mehta-v.-State-of-Tamil-Nadu-and-Ors..pdf"
+    },
+    {
+      "title": "Case study two: the safety match industry in India (J.C. Tandon)",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/4/x5860e/x5860e05.htm"
+    },
+    {
+      "title": "Matchmaking in Colonial India (N.J. Dharan, Distillations, 2024)",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/stories/magazine/matchmaking-in-colonial-india/"
+    },
+    {
+      "title": "Hennig Brand",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hennig_Brand"
+    },
+    {
+      "title": "Ivar Kreuger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivar_Kreuger"
+    },
+    {
+      "title": "Matchbook",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matchbook"
+    },
+    {
+      "title": "Ferrocerium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferrocerium"
+    },
+    {
+      "title": "Lighter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lighter"
+    },
+    {
+      "title": "Control of fire by early humans",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans"
+    },
+    {
+      "title": "IS 2653:2004 Safety matches: summary of the standard",
+      "publisher": "Bureau of Indian Standards, via National Consumer Helpline",
+      "url": "https://consumerhelpline.gov.in/public/assets/docs/bis/2653.pdf"
+    },
+    {
+      "title": "After 14 years, safety matches makers decide to resize, reprice box",
+      "publisher": "The Free Press Journal",
+      "url": "https://www.freepressjournal.in/business/after-14-yrs-safety-matches-makers-decide-to-resize-reprice-box-price-by-rs-1"
+    },
+    {
+      "title": "Annotations: the white phosphorus match (1911 medical journal note)",
+      "publisher": "PubMed Central, US National Library of Medicine",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222080/"
+    },
+    {
+      "title": "Diamond Match Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diamond_Match_Company"
+    }
+  ]
+}

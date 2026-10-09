@@ -1,0 +1,126 @@
+{
+  "slug": "matchstickclear",
+  "box": 163,
+  "question": "How does a matchstick work?",
+  "url": "https://glassbox.how/e/matchstickclear/",
+  "app": "https://glassbox.how/matchstickclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From sparks struck off pyrite 400,000 years ago to a two-rupee box from Sivakasi: how people learnt to carry fire in a pocket, and what it cost the people who made it.\n\n400000 BCE: The oldest signs of fire-making\n1669: Phosphorus, found by accident\n1827: John Walker's friction lights\n1831: White phosphorus goes into the head\n1844: The key moves to the box\n1847: Red phosphorus\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/matchstickclear/history (link in bio)\n\nThen play with how it works: glassbox.how/matchstickclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #matchstick #safetymatch #matchbox #friction #redphosphorus #activationenergy #history",
+      "youtube": {
+        "title": "The history of the match in 45 seconds #shorts",
+        "description": "From sparks struck off pyrite 400,000 years ago to a two-rupee box from Sivakasi: how people learnt to carry fire in a pocket, and what it cost the people who made it.\n\n400000 BCE · The oldest signs of fire-making (Early humans, probably Neanderthals)\n1669 · Phosphorus, found by accident (Hennig Brand)\n1827 · John Walker's friction lights (John Walker)\n1831 · White phosphorus goes into the head (Charles Sauria)\n1844 · The key moves to the box (Gustaf Erik Pasch)\n1847 · Red phosphorus (Anton von Schrötter)\n\n▶ Full history: https://glassbox.how/e/matchstickclear/history/\n▶ Play with it: https://glassbox.how/e/matchstickclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a matchstick work?\n\nA match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.\n\n→ A match is fire stored in two halves: a head on the stick, and the missing key on the box.\n→ The head is the lock. The key, red phosphorus, is on the box. Scrape a wall: heat, but no flame.\n→ On the strip, a 0.03 joule stroke makes a hot spot near 300 °C. Each step then lights the next.\n→ The head burns for one second. A film of wax catches in that time and hands the flame to the wood.\n→ Tilt it head-down and the flame climbs the stick about five times faster: hot gas rises.\n\nPlay with it yourself. It's free and open source: glassbox.how/matchstickclear (link in bio)\n\nBox No. 163 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #matchstick #safetymatch #matchbox #friction #redphosphorus #activationenergy #combustion #sivakasi #phossyjaw",
+    "carousel": "Swipe through: How does a matchstick work?\n\nA match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.\n\nSave this for later, then play with the interactive version at glassbox.how/matchstickclear (link in bio).\n\nBox No. 163 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #matchstick #safetymatch #matchbox #friction #redphosphorus #activationenergy",
+    "youtube": {
+      "title": "How does a matchstick work? #shorts",
+      "description": "A match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.\n\n▶ Play with it: https://glassbox.how/e/matchstickclear/\n⌘ Source code (MIT): https://github.com/bdeeps/matchstickclear\n\nBox No. 163 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a matchstick work? (interactive explainer)",
+      "description": "A match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.\n\n▶ Play with the interactive version: https://glassbox.how/e/matchstickclear/\n⌘ Source code (MIT): https://github.com/bdeeps/matchstickclear\n\nIn this video:\n• Fire stored in two halves. A safety match is a waxed splint about 43 mm long with a head of oxidiser, a little fuel, powdered glass and glue.\n• Lock and key. A 3 cm stroke does only about 0.03 joule of work, but it goes into a patch smaller than a pinhead in a few hundredths of a second.\n• The flame takes hold. The head burns for about a second.\n• From a log to a box of fifty. A log is peeled into veneer and chopped into splints.\n• The human cost, and the fix. Early matches used white phosphorus, which lights at about 30 °C and gave workers phossy jaw.\n• Before and after the match. A fire drill makes an ember at about 400 °C with a dozen watts of rubbing.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a matchstick work?\n\nA match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box.\n\nPlay with it: https://glassbox.how/e/matchstickclear/",
+    "linkedin": "How does a matchstick work?\n\nA match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.\n\n1. Fire stored in two halves\n2. Lock and key\n3. The flame takes hold\n4. From a log to a box of fifty\n5. The human cost, and the fix\n6. Before and after the match\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 163 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/matchstickclear/\nCode: https://github.com/bdeeps/matchstickclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-09T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-09T06:39:27.266Z"
+}

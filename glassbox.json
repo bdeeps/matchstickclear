@@ -1,0 +1,108 @@
+{
+  "slug": "matchstickclear",
+  "box": 163,
+  "date": "2026-10-12",
+  "title": "MatchstickClear",
+  "question": "How does a matchstick work?",
+  "hook": "A match is fire stored in two halves: a head that is hard to light, and the missing key on the side of the box. Strike one in slow motion, follow five steps from a 0.03 joule rub to a burning stick, tilt the flame, and meet the workers who paid for cheap matches.",
+  "thumbText": "HOW A MATCH WORKS",
+  "field": "chemistry",
+  "minutes": 14,
+  "tags": [
+    "matchstick",
+    "safety match",
+    "matchbox",
+    "friction",
+    "red phosphorus",
+    "activation energy",
+    "combustion",
+    "Sivakasi",
+    "phossy jaw",
+    "lighter",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Fire stored in two halves",
+      "text": "A safety match is a waxed splint about 43 mm long with a head of oxidiser, a little fuel, powdered glass and glue. The box's strip holds the one thing the head lacks: red phosphorus, with more powdered glass. Apart, each is hard to light. Matches are kept away from children."
+    },
+    {
+      "title": "Lock and key",
+      "text": "A 3 cm stroke does only about 0.03 joule of work, but it goes into a patch smaller than a pinhead in a few hundredths of a second. An order-of-magnitude sum gives a hot spot near 300 °C. That is enough where phosphorus meets the head's oxidiser, and each step then gives more than the next needs: phosphorus, head, wax, wood."
+    },
+    {
+      "title": "The flame takes hold",
+      "text": "The head burns for about a second. Wax vapour catches in that time and heats the wood until it gives off gas. Hot gas rises, so a match held head-down burns about five times faster than one held head-up, which creeps and often dies. Splints are treated so that no ember glows afterwards."
+    },
+    {
+      "title": "From a log to a box of fifty",
+      "text": "A log is peeled into veneer and chopped into splints. A continuous machine carries them on an endless belt through wax, the head dip and a drying loop at about two million an hour. In southern Tamil Nadu, workers have long done the same with hand-filled frames of 2,500 splints, dried in the open air."
+    },
+    {
+      "title": "The human cost, and the fix",
+      "text": "Early matches used white phosphorus, which lights at about 30 °C and gave workers phossy jaw. About 1,400 London matchgirls struck in 1888, the Berne Convention banned it in 1906 and India passed its Act in 1913. In 1996 India's Supreme Court ordered ₹20,000 from employers for each child found working against the law."
+    },
+    {
+      "title": "Before and after the match",
+      "text": "A fire drill makes an ember at about 400 °C with a dozen watts of rubbing. Flint shaves burning curls off steel. A lighter's ferrocerium catches at 150 to 180 °C and burns near 3,000 °C, and a piezo crystal makes about 3,000 volts for every millimetre of spark gap."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Safety match",
+      "def": "A match whose head lights only on the special strip, because the phosphorus is kept on the box and not on the stick."
+    },
+    {
+      "term": "Oxidiser",
+      "def": "A substance that supplies oxygen from inside a mixture, so that it can burn quickly without waiting for air."
+    },
+    {
+      "term": "Red phosphorus",
+      "def": "A stable form of phosphorus that does not ignite in air below about 240 °C. It is on the striking strip."
+    },
+    {
+      "term": "Hot spot",
+      "def": "A tiny patch made very hot because friction heat arrives faster than it can soak away."
+    },
+    {
+      "term": "Activation energy",
+      "def": "The kick a reaction needs before it starts giving out energy. In a match, each step supplies the kick for the next."
+    },
+    {
+      "term": "Pyrolysis",
+      "def": "Heat breaking wood into gases and char. The gases are what burn in the flame."
+    },
+    {
+      "term": "Afterglow",
+      "def": "Char that keeps smouldering after the flame is out. Match splints are treated so that it dies at once."
+    },
+    {
+      "term": "Phossy jaw",
+      "def": "The death of the jawbone in match workers who breathed white phosphorus fumes, before it was banned."
+    },
+    {
+      "term": "Ferrocerium",
+      "def": "The 'flint' of a lighter: a cerium and iron alloy whose shavings catch fire at about 150 to 180 °C."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "matchstickclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
